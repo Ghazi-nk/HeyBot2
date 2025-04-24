@@ -129,6 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
+# token added to github secret keys
 .venv
 env/
 venv/
